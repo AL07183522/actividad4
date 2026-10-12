@@ -17,7 +17,7 @@
 4. [Dataset: SetFit/tweet_sentiment_extraction](#dataset-setfittweet_sentiment_extraction)
 5. [Modelos Evaluados](#modelos-evaluados)
 6. [Resultados Cuantitativos y Benchmark](#resultados-cuantitativos-y-benchmark)
-7. [Reporte Académico](#reporte-académico-completo)
+7. [Reporte Académico](#reporte-académico)
 8. [Referencias Bibliográficas](#referencias-bibliográficas)
 
 ---
